@@ -1,0 +1,1 @@
+﻿This theme replicates the look of the Vector skin used in MediaWiki based wikis.
